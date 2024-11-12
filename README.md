@@ -33,10 +33,8 @@
 ## 🛠️ **Languages and Tools:**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,scikit,matplotlib,ggplot,seaborn,nltk,pyspakr,r,sql,java,scala,typescript,git,github" />
-  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,snowflake,oracle,linux,jenkins,git,jupyter,excel" />
-  <img src="https://skillicons.dev/icons?i=hadoop,hive,apache,spark,msproject,tableau,powerbi,sas,bootstrap,django" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nosql,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,scikit,matplotlib,ggplot,seaborn,nltk,pyspakr,r,sql,java,scala,typescript,git,github,azure,gcp,aws,snowflake,oracle,linux,jenkins,git,jupyter,excel" />
+  <img src="https://skillicons.dev/icons?i=hadoop,hive,apache,spark,msproject,tableau,powerbi,sas,bootstrap,django,html,css,js,php,mysql,nosql,selenium" />
 </p>
 
 ---
@@ -44,7 +42,8 @@
 ## 📊 **My Activity:**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnugupthaa&show_icons=true&layout=compact&theme=transparent" alt="Vishnugupthaa's Most Used Languages" />
+  
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnugupthaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Vishnugupthaa's Most Used Languages" />
 
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=vishnugupthaa&show_icons=true&count_private=true&theme=transparent&locale=en" alt="Vishnugupthaa's GitHub Stats" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnugupthaa&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Vishnugupthaa's Streak Stats" />
