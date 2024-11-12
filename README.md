@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vishnugupthaa+R!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=3500&lines=Hi+There!+👋;+I'm+Vishnugupthaa+Ramidi(^_-)!;" />
 </h1>
 
 ### A passionate **Data Developer** Choosen by this Universe with a deep interest in Machine Learning, Data Analysis, and Artificial Intelligence.
