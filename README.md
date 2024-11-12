@@ -34,7 +34,7 @@
 
 <p align="center">
   <!-- First set of skills -->
-  <img src="https://skillicons.dev/icons?i=python,pyspark,r,mysql,java,scala,typescript,git,github,azure,gcp,aws,oracle,linux,jenkins,vscode,visualstudio,pycharm,postman,idea,eclipse,blender,sklearn,,bootstrap,django,html,css,js,php,mysql,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,java,scala,typescript,git,github,azure,gcp,aws,oracle,linux,jenkins,vscode,visualstudio,pycharm,postman,idea,eclipse,blender,sklearn,bootstrap,django,html,css,js,php,mysql,selenium" />
 </p>
 
 ---
