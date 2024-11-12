@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/Vishnugupthaa/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://files.oaiusercontent.com/file-Co5Kh4tb8vKZYCXcsDw7OXfl?se=2024-11-12T21%3A39%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0b65e2ab-f9f9-447c-a9f3-1adce734d264.webp&sig=x1vuQAhvQ0JWPAQBcQ7VdZTLHOUFaDoTthk0ZcgooBk%3D" alt="Yet to decide" width="100%" />
+<img src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="100%" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vishnugupthaa+R..(-_^)!;" />
