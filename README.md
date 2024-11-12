@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/Vishnugupthaa/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="100%" />
+<img src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="200" height="250" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vishnugupthaa+R..(-_^)!;" />
@@ -34,7 +34,7 @@
 
 <p align="center">
   <!-- First set of skills -->
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,java,scala,typescript,git,github,azure,gcp,aws,oracle,linux,jenkins,vscode,visualstudio,pycharm,postman,idea,eclipse,blender,sklearn,bootstrap,django,html,css,js,php,mysql,selenium" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,java,scala,typescript,git,github,azure,gcp,aws,linux,jenkins,vscode,visualstudio,pycharm,postman,idea,eclipse,blender,sklearn,bootstrap,django,html,css,js,php,mysql,selenium" />
 </p>
 
 ---
