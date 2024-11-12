@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=3500&lines=Hi+There!+👋;+I'm+Vishnugupthaa+Ramidi(^_-)!;" />
+</h1>
+
 <div align="center"> 
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Vishnugupthaa/count.svg" alt="Visitor's Count" /><br>
