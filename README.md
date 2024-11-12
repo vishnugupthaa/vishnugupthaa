@@ -1,7 +1,7 @@
 <div align="center"> 
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Vishnugupthaa/count.svg" alt="Visitor's Count" />
-  <img src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="100%" />
+  <img src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="50%" />
 </div>
 
 
