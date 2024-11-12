@@ -1,12 +1,12 @@
-
 <div align="center"> 
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Vishnugupthaa/count.svg" alt="Visitor's Count" />
+  <img src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="100%" />
 </div>
 
-<img align="Center" src="https://github.com/vishnugupthaa/vishnugupthaa/blob/main/github.webp" alt="Decided" width="500" height="500" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=5000&lines=Hi+There!+👋;+I'm+Vishnugupthaa+R(-_^);" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vishnugupthaa+R!;" />
 </h1>
 
 ### A passionate **Data Developer** Choosen by this Universe with a deep interest in Machine Learning, Data Analysis, and Artificial Intelligence.
