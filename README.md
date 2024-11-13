@@ -14,7 +14,7 @@
 
 ### A dedicated Data Developer driven by curiosity and innovation, with a strong background in Machine Learning, Data Analytics, and Artificial Intelligence.
 
-- 🌱 I’m currently seeking opportunities in Data Analytics to leverage my analytical skills and technical expertise.
+- 🌱 I’m currently seeking opportunities in **Data Analytics** to leverage my analytical skills and technical expertise.
 - 💬 Ask me about **Data Analytics, Machine Learning, Python, SQL, Data Visualization, Cloud Computing, and Big Data tools.**
 
 <br>
