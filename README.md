@@ -12,10 +12,10 @@
 <h1 align="center">
 </h1>
 
-### A passionate **Data Developer** Choosen by this Universe with a deep interest in Machine Learning, Data Analysis, and Artificial Intelligence.
+### A dedicated Data Developer driven by curiosity and innovation, with a strong background in Machine Learning, Data Analytics, and Artificial Intelligence.
 
-- 🌱 I’m currently Looking for a career in Data analystics
-- 💬 Ask me about **Data Analytics, Machine Learning, Python, Databases, Bootstrap, etc.**
+- 🌱 I’m currently seeking opportunities in Data Analytics to leverage my analytical skills and technical expertise.
+- 💬 Ask me about **Data Analytics, Machine Learning, Python, SQL, Data Visualization, Cloud Computing, and Big Data tools.**
 
 <br>
 
